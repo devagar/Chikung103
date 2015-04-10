@@ -1,12 +1,6 @@
 ---
 layout: default
 ---
-# Material Essencial 
-
-Tal como os alicerces de um edifício, o Zhan Zhuang Chi Kung evolui a partir de conceitos e princípios que depois são enriquecidos e adaptados às necessidades de quem pratica.
-
-Para melhor compreender a raiz onde este treino assenta [siga esta ligação](/essencial.html). 
-
 # Resumos semanais
 
 ## Introdução
