@@ -3,7 +3,6 @@ layout: default
 ---
 # Resumo da Semana 1
 
-
 ![imagem1](semana1.jpg)
 
 Na foto, resumo do material apresentado na última aula do final de bloco. Fico tremida e por isso pouco legível - qualquer dúvida façam-ma chegar. Refere-se à sequência de passos para a dança da saúde.
