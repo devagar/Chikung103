@@ -16,10 +16,10 @@ Nos alongamentos, foi estudado o conceito de abertura da parte superior do corpo
 Foram estudados os tendino musculares do pulmão e do intestino grosso para abrir esta área.
 
 Pulmão
-![TM-P](TM-P.tiff)
+![TM-P](TM-P.jpg)
 
 Intestino grosso 
-![TM-IG](TM-IG.tiff)
+![TM-IG](TM-IG.jpg)
 
 Estes meridianos, podem ser activados com a colocação em ângulo recto do dedo polegar e do dedo indicador. 
 
