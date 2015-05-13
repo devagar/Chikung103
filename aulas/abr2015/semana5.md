@@ -9,6 +9,6 @@ Deve ser praticada depois do aquecimento.
 
 Tem a duração de 15 minutos e pode ser praticada depois do aquecimento. 
 
-Gostava do vosso retorno, sobre a utilidade para deste tipo de apoio ao vosso treino.
+[Gostava do vosso retorno](mailto:lourencoazevedo@gmail.com), sobre a utilidade para deste tipo de apoio ao vosso treino.
 
 Boas Práticas.
