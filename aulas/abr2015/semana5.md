@@ -3,7 +3,7 @@ layout: default
 ---
 # Resumo da Semana 5
 
-Esta semana apresento-vos [uma prática guiada da postura frontal])(http://ck-podcasts.s3.amazonaws.com/AulasAbr-Jun2015/Avancados/postura-frontal-parede.mp3) com a intenção de pressionar a parede. 
+Esta semana apresento-vos [uma prática guiada da postura frontal](http://ck-podcasts.s3.amazonaws.com/AulasAbr-Jun2015/Avancados/postura-frontal-parede.mp3) com a intenção de pressionar a parede. 
 
 Deve ser praticada depois do aquecimento. 
 
