@@ -5,7 +5,7 @@ layout: default
 
 Esta semana apresento-vos [uma prática guiada da postura frontal](http://ck-podcasts.s3.amazonaws.com/AulasAbr-Jun2015/Avancados/postura-frontal-parede.mp3) com a intenção de pressionar a parede. 
 
-*(*) Utilize o botão direito do rato, seguido da opção “salvar/guardar como”.*
+_(*) Utilize o botão direito do rato, seguido da opção “salvar/guardar como”._
 
 Deve ser praticada depois do aquecimento. 
 
