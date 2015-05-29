@@ -13,5 +13,6 @@ Cada resumo é apresentados em pequenos capítulos. Idealmente, cada um destes c
 + [Semana 2](/aulas/abr2015/semana2.html)
 + [Semana 3](/aulas/abr2015/semana3.html) 
 + [Semana 5](/aulas/abr2015/semana5.html)
++ [Semana 8](/aulas/abr2015/semana8.html)
 
 Boas práticas
