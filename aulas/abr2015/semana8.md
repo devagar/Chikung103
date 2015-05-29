@@ -1,16 +1,16 @@
 ---
 layout: default
 ---
-# Resumo da Semana 5
+# Resumo da Semana 8
 
-Esta semana apresento-vos [uma prática guiada da postura frontal](http://ck-podcasts.s3.amazonaws.com/AulasAbr-Jun2015/Avancados/postura-frontal-parede.mp3) com a intenção de pressionar a parede. 
+O tema central foi da última aula foi o estudo do Dragão e do Tigre num contexto da intenção e a sua aplicação na dança da saúde. 
 
-_(*) Utilize o botão direito do rato, seguido da opção “salvar/guardar como”._
+Deixo-vos [um vídeo](http://ck-language.s3.amazonaws.com/exemplos/tiger.mp4) filmado durante o Aniversário do Prof. Yu que complementa o estudo do Tigre feito na última aula. 
 
-Deve ser praticada depois do aquecimento. 
+Esta apresentação é uma demonstração, o que leva o praticante a exagerar os movimentos. Como tal, é uma boa oportunidade para estudar o que no interno se manifesta no externo. 
 
-Tem a duração de 15 minutos e pode ser praticada depois do aquecimento. 
+Fica também uma imagem do do livro do Mestre Lam sobre a idéia presnte na inteção de domar o Tigre. 
 
-[Gostava do vosso retorno](mailto:lourencoazevedo@gmail.com), sobre a utilidade para deste tipo de apoio ao vosso treino.
+![Tiger](/aulas/abr2015/tiger.jpg)
 
 Boas Práticas.
